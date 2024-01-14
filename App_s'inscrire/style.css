@@ -1,0 +1,35 @@
+form {
+    background:linear-gradient(#005792, #0098ef);
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid hsl(0, 0%, 87%);
+    border-radius: 20px;
+    
+}
+
+.input{
+    justify-content: center;  
+}
+
+.Navbar{
+    background-color: red;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+button {
+    padding: 10px 15px;
+    border: none;
+    margin: 0 auto;
+    border-radius: 5px;
+    display: block;
+    transform: translateX(40%);
+} 
+
+
+.footer{
+    background-color: green;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
